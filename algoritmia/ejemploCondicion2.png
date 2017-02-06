@@ -1,0 +1,15 @@
+Proceso ejemploLogicos
+	definir a, b, c, d como entero;
+	definir resultado como Logico;
+	a=5;
+	b=10;
+	c=3;
+	d=9;
+	
+	Si !(a>b && b>c || c<=d && d!=a) Entonces
+		Escribir "verdadero";
+	Sino
+		escribir "falso";
+	FinSi
+	
+FinProceso
