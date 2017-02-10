@@ -5,7 +5,7 @@ Proceso numDigitoCasos
 	Si num<0 Entonces
 		num = num*(-1); //asignación
 	FinSi
-	Segun num Hacer
+	Segun num Hacer	
 		1:
 			Escribir "UNO";
 		2:
