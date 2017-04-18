@@ -11,3 +11,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /java/TiposDatos/nbproject/private/
+/java/EjemploORM/nbproject/private/
+/java/JavaApplication11/nbproject/private/
+/java/EjemploAsocicacionBaseDatos/nbproject/private/
+/java/Ejemplo1/nbproject/private/
+/java/Ejemplo1/build/
+/java/Ejemplo1/dist/
+/java/Ejemplo2/target/
+/java/EjemplosLecturaEscritura/target/
+/java/EjemplosAsignacion/target/
